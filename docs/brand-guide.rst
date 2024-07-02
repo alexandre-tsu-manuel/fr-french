@@ -52,11 +52,10 @@ Vous êtes libre de :
 - **Partager** - Copier et redistribuer le matériel sur tout support ou format.
 
 - **Adapter** - Remixer, transformer et construire à partir de ce matériel dans n'importe quel but, même commercial.
-  dans n'importe quel but, même commercial.
 
 Aux conditions suivantes :
 
-- **Attribution** - Vous devez donner le crédit approprié, fournir un lien à la
+- **Attribution** - Vous devez donner le crédit approprié, fournir un lien vers la
   la licence, et indiquer si des modifications ont été apportées. Vous pouvez le faire de toute
   manière raisonnable, mais pas d'une manière qui suggère que l'équipe centrale de Solidity
   vous approuve ou approuve votre utilisation.
